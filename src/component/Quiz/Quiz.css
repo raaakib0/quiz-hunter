@@ -1,0 +1,13 @@
+.quiz-container{
+    border: silver 5px ;
+    background-color: aquamarine;
+    gap: 10px;
+}
+.quiz-container img{
+    width: 300px;
+}
+.quiz-text-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
