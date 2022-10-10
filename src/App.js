@@ -1,9 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
-import Header from './Header/Header';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Main from './Main/Main';
-import Home from './Home/Home';
+import Main from './component/Main/Main';
+import Home from './component/Home/Home';
 
 function App() {
   const router = createBrowserRouter([
@@ -22,7 +20,6 @@ function App() {
   return (
     <div className="App">
       <RouterProvider router={router} ></RouterProvider>
-      <Header></Header>
     </div>
   );
 }
