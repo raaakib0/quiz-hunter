@@ -8,15 +8,7 @@ const Main = () => {
         <div>
             
             <Header></Header>
-            <div className="main-ui">
-                <div className='left-banner'>
-                    <h1>main js</h1>
-                    <h1>main js</h1>
-                    <h1>main js</h1>
-                    <h1>main js</h1>
-                </div>
-                <Outlet></Outlet>
-            </div>
+            <Outlet></Outlet>
             
         </div>
     );

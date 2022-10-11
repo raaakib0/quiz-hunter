@@ -8,6 +8,7 @@ const Header = () => {
             <h1 >  Quiz Hunter</h1>
             <nav>
                 <Link to='/' >Home</Link>
+                <Link to='/blog' >Blog</Link>
             </nav>
         </div>
     );
