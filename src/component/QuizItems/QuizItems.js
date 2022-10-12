@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
 import QuizItem from '../QuizItem/QuizItem';
-// import { Info, Success, Warn } from '../Toast/Toast';
-
 import './QuizItems.css'
 
 const QuizItems = ({ questions }) => {

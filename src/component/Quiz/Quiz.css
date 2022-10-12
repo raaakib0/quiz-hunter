@@ -1,10 +1,13 @@
 .quiz-container{
-    border: silver 5px ;
-    background-color: aquamarine;
+    border: rgb(101, 99, 99)  ;
+    background-color: whitesmoke;
     gap: 10px;
+   margin: 50px;
+   border-radius: 50px;
+   padding: 20px;
 }
 .quiz-container img{
-    width: 300px;
+    width: 340px;
 }
 .quiz-text-container{
     display: flex;

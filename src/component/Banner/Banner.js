@@ -4,18 +4,8 @@ const Banner = () => {
     return (
         <div>
             <div className='left-banner'>
-                <h1>main js</h1>
-                <h1>main js</h1>
-                <h1>main js</h1>
-                <h1>main js</h1>
-                <h1>main js</h1>
-                <h1>main js</h1>
-                <h1>main js</h1>
-                <h1>main js</h1>
-                <h1>main js</h1>
-                <h1>main js</h1>
-                <h1>main js</h1>
-                <h1>main js</h1>
+                <img src="quiz.jpg" alt="" />
+                <img src="quiz2.jpg" alt="" />
             </div>
         </div>
     );
