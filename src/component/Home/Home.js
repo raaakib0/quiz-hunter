@@ -6,6 +6,7 @@ import './Home.css';
 
 const Home = () => {
     const QuizHead = useLoaderData();
+    console.log(QuizHead)
     // console.log(QuizHead.data[0].logo);
     return (
         <div className="main-ui">

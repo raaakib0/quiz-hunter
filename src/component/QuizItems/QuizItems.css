@@ -1,0 +1,25 @@
+#quizItems {
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#quizItems p {
+    padding: 10px 100px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+#view-ans {
+
+    font-size: 40px;
+    color: rgba(0, 119, 146, 0.702);
+    ;
+    padding-right: 20px;
+    float: right;
+    cursor: pointer;
+}
+
+#view-ans i:hover {
+    color: rgba(2, 76, 93, 0.702);
+}
