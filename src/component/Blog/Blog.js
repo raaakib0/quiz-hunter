@@ -13,8 +13,8 @@ const Blog = () => {
                 <p>The React Context API was been around as an experimental feature for a while now but finally became safe to use in production last year, solving one major problem React problem — prop drilling.</p>
             </article>
             <article>
-                <h1>How does context api work in React?</h1>
-                <p>The React Context API was been around as an experimental feature for a while now but finally became safe to use in production last year, solving one major problem React problem — prop drilling.</p>
+                <h1>what is useRef in React?</h1>
+                <p>The useRef Hook allows you to persist values between renders. It can be used to store a mutable value that does not cause a re-render when updated.</p>
             </article>
         </div>
     );
